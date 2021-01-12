@@ -15,7 +15,7 @@ Este app e destinado para pessoas que gostam e acompanham o mercado financeiro, 
 
 Quando for rodar o projeto de forma local os seguintes comandos devem ser executados:
 
-    npm init -> Intalara todas as dependencias do projeto.
+    npm i -> Intalara todas as dependencias do projeto.
     
     npx sequelize db:migrate -> Cria o Banco de Dados Sqlite.
     
