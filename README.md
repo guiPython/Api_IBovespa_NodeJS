@@ -4,7 +4,8 @@ Api construida com Apollo-Server , GraphQL , Sequelize e JsonWebToken . A aplica
 
 Toda a parte Web de obtencao de dados utiliza os seguintes dominios/ApI:
 
-    https://statusinvest.com.br/
+    https://statusinvest.com.br/acoes/XXX
+    https://statusinvest.com.br/bdrs/XXX
     https://query1.finance.yahoo.com/v8/finance/chart/none.SA
     https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=XXX.SAO&apikey=@keyAlpha
     https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=XXX.SAO&outputsize=full&apikey=XXX
